@@ -52,8 +52,8 @@ Commercial interface for a beauty brand — global state management, dynamic pro
 
 <div align="center">
 
-![Jefferson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Am-Jheffy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Am-Jheffy&layout=compact&theme=tokyonight&hide_border=true)
+![Jefferson's GitHub Stats](https://github-readme-stats-smoky-two-68.vercel.app/api?username=Am-Jheffy&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-smoky-two-68.vercel.app/api/top-langs/?username=Am-Jheffy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
