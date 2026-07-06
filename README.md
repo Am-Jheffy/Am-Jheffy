@@ -37,13 +37,13 @@ I build type-safe, scalable frontend systems for B2B and enterprise interfaces �
 
 ## Featured Work
 
-**[AI Fraud Detection Dashboard (AxiomVault)](#)**
+**[AI Fraud Detection Dashboard (AxiomVault)](https://axiomvault.netlify.app/)**
 Frontend architecture for a real-time anomaly-monitoring system handling complex financial auditing workflows — type-safe, high-density data visualization.
 
-**[SwiftMeal Logistics Platform](#)**
+**[SwiftMeal Logistics Platform](https://swiftmeal-frontend-production.up.railway.app/)**
 Package tracking portal with async lifecycle state handling and optimized caching for live-updating shipment milestones and route maps.
 
-**[Beauty E-Commerce Architecture](#)** *(Active Build)*
+**[Beauty E-Commerce Architecture](https://aurence-fashion-empire.vercel.app/)** *(Active Build)*
 Commercial interface for a beauty brand — global state management, dynamic product filtering, client-side checkout flow.
 
 → Full project list and case studies: **[jefferson-no.netlify.app](https://jefferson-no.netlify.app)**
